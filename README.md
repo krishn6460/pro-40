@@ -1,1 +1,2 @@
-# pro-40
+# MonkeyGame
+Monkey game project
